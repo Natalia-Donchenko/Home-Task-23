@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button 'Add' should render Add btn 1`] = `
+<div>
+  <button
+    class="addTask-btn"
+    type="button"
+  >
+    add
+  </button>
+</div>
+`;
+
+exports[`Button 'Cansel' should render Cansel btn 1`] = `<div />`;
+
+exports[`Button 'Delete' should render Delete btn 1`] = `<div />`;
+
+exports[`Button 'Edit' should render Edit btn 1`] = `<div />`;
+
+exports[`Button 'Important' should render Important btn 1`] = `<div />`;
+
+exports[`Button 'Update' should render Update btn 1`] = `<div />`;
+
+exports[`Button Add should render Add btn 1`] = `
+<div>
+  <button
+    class="addTask-btn"
+    type="button"
+  >
+    add
+  </button>
+</div>
+`;
+
+exports[`Button Add' should render Add btn 1`] = `
+<div>
+  <button
+    class="addTask-btn"
+    type="button"
+  >
+    add
+  </button>
+</div>
+`;
+
+exports[`Button Cansel should render Cansel btn 1`] = `<div />`;
+
+exports[`Button Delete should render Delete btn 1`] = `<div />`;
+
+exports[`Button Edit should render Edit btn 1`] = `<div />`;
+
+exports[`Button Important should render Important btn 1`] = `<div />`;
+
+exports[`Button Update should render Update btn 1`] = `<div />`;
